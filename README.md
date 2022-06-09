@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @longbui98
 - 👀 I’m interested in software engineering and coding competition
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning blockchain and newest technology
+- 🌱 I’m currently working at CMC GLOBAL
 - 📫 How to reach me ...
 
 <!---
